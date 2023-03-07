@@ -1,0 +1,702 @@
+[
+  {
+    "Graphics Card": "GeForce RTX 4090",
+    "launch Price $": 1599,
+    "1080p Ultra(FPS)": 147.4,
+    "1080p Medium(FPS)": 188,
+    "1440p Ultra(FPS)": 143.2,
+    "4K Ultra(FPS)": 116.3,
+    "Specifications Links to Review": "AD102, 16384 shaders, 2520MHz, 24GB GDDR6X@21Gbps, 1008GB/s",
+    "Wattage": 450
+  },
+  {
+    "Graphics Card": "GeForce RTX 4080",
+    "launch Price $": 1199,
+    "1080p Ultra(FPS)": 140.8,
+    "1080p Medium(FPS)": 181.7,
+    "1440p Ultra(FPS)": 130,
+    "4K Ultra(FPS)": 91.4,
+    "Specifications Links to Review": "AD103, 9728 shaders, 2505MHz, 16GB GDDR6X@22.4Gbps, 717GB/s,",
+    "Wattage": 320
+  },
+  {
+    "Graphics Card": "Radeon RX 6950 XT",
+    "launch Price $": 1099,
+    "1080p Ultra(FPS)": 137.9,
+    "1080p Medium(FPS)": 191,
+    "1440p Ultra(FPS)": 115.4,
+    "4K Ultra(FPS)": 70.3,
+    "Specifications Links to Review": "Navi 21, 5120 shaders, 2310MHz, 16GB GDDR6@18Gbps, 576GB/s,",
+    "Wattage": 335
+  },
+  {
+    "Graphics Card": "Radeon RX 6900 XT",
+    "launch Price $": 999,
+    "1080p Ultra(FPS)": 132.9,
+    "1080p Medium(FPS)": 186.2,
+    "1440p Ultra(FPS)": 107.6,
+    "4K Ultra(FPS)": 64.8,
+    "Specifications Links to Review": "Navi 21, 5120 shaders, 2250MHz, 16GB GDDR6@16Gbps, 512GB/s,",
+    "Wattage": 300
+  },
+  {
+    "Graphics Card": "GeForce RTX 3090 Ti",
+    "launch Price $": 1249,
+    "1080p Ultra(FPS)": 132.4,
+    "1080p Medium(FPS)": 180.1,
+    "1440p Ultra(FPS)": 113.9,
+    "4K Ultra(FPS)": 75.7,
+    "Specifications Links to Review": "GA102, 10752 shaders, 1860MHz, 24GB GDDR6X@21Gbps, 1008GB/s,",
+    "Wattage": 450
+  },
+  {
+    "Graphics Card": "Radeon RX 6800 XT",
+    "launch Price $": 649,
+    "1080p Ultra(FPS)": 127.4,
+    "1080p Medium(FPS)": 180.7,
+    "1440p Ultra(FPS)": 102,
+    "4K Ultra(FPS)": 60.4,
+    "Specifications Links to Review": "Navi 21, 4608 shaders, 2250MHz, 16GB GDDR6@16Gbps, 512GB/s,",
+    "Wattage": 300
+  },
+  {
+    "Graphics Card": "GeForce RTX 3090",
+    "launch Price $": 1499,
+    "1080p Ultra(FPS)": 126.6,
+    "1080p Medium(FPS)": 178.1,
+    "1440p Ultra(FPS)": 106.5,
+    "4K Ultra(FPS)": 68.8,
+    "Specifications Links to Review": "GA102, 10496 shaders, 1695MHz, 24GB GDDR6X@19.5Gbps, 936GB/s,",
+    "Wattage": 350
+  },
+  {
+    "Graphics Card": "GeForce RTX 3080 12GB",
+    "launch Price $": 1199,
+    "1080p Ultra(FPS)": 124.5,
+    "1080p Medium(FPS)": 178.2,
+    "1440p Ultra(FPS)": 104,
+    "4K Ultra(FPS)": 66.3,
+    "Specifications Links to Review": "GA102, 8960 shaders, 1845MHz, 12GB GDDR6X@19Gbps, 912GB/s,",
+    "Wattage": 400
+  },
+  {
+    "Graphics Card": "GeForce RTX 3080 Ti",
+    "launch Price $": 1249,
+    "1080p Ultra(FPS)": 123.4,
+    "1080p Medium(FPS)": 174.9,
+    "1440p Ultra(FPS)": 103.4,
+    "4K Ultra(FPS)": 66.5,
+    "Specifications Links to Review": "GA102, 10240 shaders, 1665MHz, 12GB GDDR6X@19Gbps, 912GB/s,",
+    "Wattage": 350
+  },
+  {
+    "Graphics Card": "Radeon RX 6800",
+    "launch Price $": 579,
+    "1080p Ultra(FPS)": 116.7,
+    "1080p Medium(FPS)": 174.9,
+    "1440p Ultra(FPS)": 90.9,
+    "4K Ultra(FPS)": 52.5,
+    "Specifications Links to Review": "Navi 21, 3840 shaders, 2105MHz, 16GB GDDR6@16Gbps, 512GB/s,",
+    "Wattage": 250
+  },
+  {
+    "Graphics Card": "GeForce RTX 3080",
+    "launch Price $": 700,
+    "1080p Ultra(FPS)": 116.3,
+    "1080p Medium(FPS)": 173.4,
+    "1440p Ultra(FPS)": 95.5,
+    "4K Ultra(FPS)": 60.6,
+    "Specifications Links to Review": "GA102, 8704 shaders, 1710MHz, 10GB GDDR6X@19Gbps, 760GB/s,",
+    "Wattage": 320
+  },
+  {
+    "Graphics Card": "Radeon RX 6750 XT",
+    "launch Price $": 549,
+    "1080p Ultra(FPS)": 105.3,
+    "1080p Medium(FPS)": 170.2,
+    "1440p Ultra(FPS)": 78.2,
+    "4K Ultra(FPS)": 43.1,
+    "Specifications Links to Review": "Navi 22, 2560 shaders, 2600MHz, 12GB GDDR6@18Gbps, 432GB/s,",
+    "Wattage": 250
+  },
+  {
+    "Graphics Card": "GeForce RTX 3070 Ti",
+    "launch Price $": 599,
+    "1080p Ultra(FPS)": 104.1,
+    "1080p Medium(FPS)": 162.4,
+    "1440p Ultra(FPS)": 82.6,
+    "4K Ultra(FPS)": 46.8,
+    "Specifications Links to Review": "GA104, 6144 shaders, 1770MHz, 8GB GDDR6X@19Gbps, 608GB/s,",
+    "Wattage": 290
+  },
+  {
+    "Graphics Card": "Titan RTX",
+    "launch Price $": 2499,
+    "1080p Ultra(FPS)": 101,
+    "1080p Medium(FPS)": 158.2,
+    "1440p Ultra(FPS)": 80.5,
+    "4K Ultra(FPS)": 48.3,
+    "Specifications Links to Review": "TU102, 4608 shaders, 1770MHz, 24GB GDDR6@14Gbps, 672GB/s,",
+    "Wattage": 280
+  },
+  {
+    "Graphics Card": "Radeon RX 6700 XT",
+    "launch Price $": 479,
+    "1080p Ultra(FPS)": 99.8,
+    "1080p Medium(FPS)": 162.1,
+    "1440p Ultra(FPS)": 73.4,
+    "4K Ultra(FPS)": 40.5,
+    "Specifications Links to Review": "Navi 22, 2560 shaders, 2581MHz, 12GB GDDR6@16Gbps, 384GB/s,",
+    "Wattage": 230
+  },
+  {
+    "Graphics Card": "GeForce RTX 3070",
+    "launch Price $": 499,
+    "1080p Ultra(FPS)": 99.8,
+    "1080p Medium(FPS)": 157.7,
+    "1440p Ultra(FPS)": 77.5,
+    "4K Ultra(FPS)": 43.2,
+    "Specifications Links to Review": "GA104, 5888 shaders, 1725MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 220
+  },
+  {
+    "Graphics Card": "GeForce RTX 2080 Ti",
+    "launch Price $": 1200,
+    "1080p Ultra(FPS)": 96,
+    "1080p Medium(FPS)": 151.6,
+    "1440p Ultra(FPS)": 75.3,
+    "4K Ultra(FPS)": 44.6,
+    "Specifications Links to Review": "TU102, 4352 shaders, 1545MHz, 11GB GDDR6@14Gbps, 616GB/s,",
+    "Wattage": 250
+  },
+  {
+    "Graphics Card": "GeForce RTX 3060 Ti",
+    "launch Price $": 399,
+    "1080p Ultra(FPS)": 91.5,
+    "1080p Medium(FPS)": 149.7,
+    "1440p Ultra(FPS)": 69.7,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GA104, 4864 shaders, 1665MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 200
+  },
+  {
+    "Graphics Card": "Radeon RX 6700 10GB",
+    "launch Price $": 299,
+    "1080p Ultra(FPS)": 87.7,
+    "1080p Medium(FPS)": 146.8,
+    "1440p Ultra(FPS)": 63.5,
+    "4K Ultra(FPS)": 33.1,
+    "Specifications Links to Review": "Navi 22, 2304 shaders, 2450MHz, 10GB GDDR6@16Gbps, 320GB/s,",
+    "Wattage": 175
+  },
+  {
+    "Graphics Card": "GeForce RTX 2080 Super",
+    "launch Price $": 699,
+    "1080p Ultra(FPS)": 84.9,
+    "1080p Medium(FPS)": 137.8,
+    "1440p Ultra(FPS)": 64.9,
+    "4K Ultra(FPS)": 34.5,
+    "Specifications Links to Review": "TU104, 3072 shaders, 1815MHz, 8GB GDDR6@15.5Gbps, 496GB/s,",
+    "Wattage": 250
+  },
+  {
+    "Graphics Card": "GeForce RTX 2080",
+    "launch Price $": 549,
+    "1080p Ultra(FPS)": 82.2,
+    "1080p Medium(FPS)": 133.1,
+    "1440p Ultra(FPS)": 62.4,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU104, 2944 shaders, 1710MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 215
+  },
+  {
+    "Graphics Card": "Intel Arc A770 16GB",
+    "launch Price $": 349,
+    "1080p Ultra(FPS)": 80.3,
+    "1080p Medium(FPS)": 124,
+    "1440p Ultra(FPS)": 62.3,
+    "4K Ultra(FPS)": 36.7,
+    "Specifications Links to Review": "ACM-G10, 4096 shaders, 2100MHz, 16GB GDDR6@17.5Gbps, 560GB/s,",
+    "Wattage": 215
+  },
+  {
+    "Graphics Card": "Radeon RX 6650 XT",
+    "launch Price $": 399,
+    "1080p Ultra(FPS)": 79.8,
+    "1080p Medium(FPS)": 138.4,
+    "1440p Ultra(FPS)": 56.7,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 23, 2048 shaders, 2635MHz, 8GB GDDR6@18Gbps, 280GB/s,",
+    "Wattage": 180
+  },
+  {
+    "Graphics Card": "Radeon RX 6600 XT",
+    "launch Price $": 379,
+    "1080p Ultra(FPS)": 78,
+    "1080p Medium(FPS)": 72136.5,
+    "1440p Ultra(FPS)": 54.9,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 23, 2048 shaders, 2589MHz, 8GB GDDR6@16Gbps, 256GB/s,",
+    "Wattage": 160
+  },
+  {
+    "Graphics Card": "GeForce RTX 2070 Super",
+    "launch Price $": 499,
+    "1080p Ultra(FPS)": 76.4,
+    "1080p Medium(FPS)": 124.1,
+    "1440p Ultra(FPS)": 57.4,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU104, 2560 shaders, 1770MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 215
+  },
+  {
+    "Graphics Card": "Radeon RX 5700 XT",
+    "launch Price $": 400,
+    "1080p Ultra(FPS)": 73.7,
+    "1080p Medium(FPS)": 125.8,
+    "1440p Ultra(FPS)": 53.3,
+    "4K Ultra(FPS)": 29.3,
+    "Specifications Links to Review": "Navi 10, 2560 shaders, 1905MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 225
+  },
+  {
+    "Graphics Card": "Intel Arc A750",
+    "launch Price $": 289,
+    "1080p Ultra(FPS)": 71.4,
+    "1080p Medium(FPS)": 116.4,
+    "1440p Ultra(FPS)": 55.2,
+    "4K Ultra(FPS)": 31.8,
+    "Specifications Links to Review": "ACM-G10, 3584 shaders, 2050MHz, 8GB GDDR6@16Gbps, 512GB/s,",
+    "Wattage": 225
+  },
+  {
+    "Graphics Card": "GeForce RTX 3060",
+    "launch Price $": 329,
+    "1080p Ultra(FPS)": 70.2,
+    "1080p Medium(FPS)": 118.8,
+    "1440p Ultra(FPS)": 52.6,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GA106, 3584 shaders, 1777MHz, 12GB GDDR6@15Gbps, 360GB/s,",
+    "Wattage": 170
+  },
+  {
+    "Graphics Card": "Radeon VII",
+    "launch Price $": 699,
+    "1080p Ultra(FPS)": 69.7,
+    "1080p Medium(FPS)": 114,
+    "1440p Ultra(FPS)": 53,
+    "4K Ultra(FPS)": 31.4,
+    "Specifications Links to Review": "Vega 20, 3840 shaders, 1750MHz, 16GB HBM2@2.0Gbps, 1024GB/s,",
+    "Wattage": 300
+  },
+  {
+    "Graphics Card": "GeForce RTX 2070",
+    "launch Price $": 499,
+    "1080p Ultra(FPS)": 67.9,
+    "1080p Medium(FPS)": 110.7,
+    "1440p Ultra(FPS)": 51,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU106, 2304 shaders, 1620MHz, 8GB GDDR6@14Gbps, 448GB/s, 175W",
+    "Wattage": 175
+  },
+  {
+    "Graphics Card": "Radeon RX 6600",
+    "launch Price $": 329,
+    "1080p Ultra(FPS)": 66.7,
+    "1080p Medium(FPS)": 117.8,
+    "1440p Ultra(FPS)": 46.1,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 23, 1792 shaders, 2491MHz, 8GB GDDR6@14Gbps, 224GB/s,",
+    "Wattage": 132
+  },
+  {
+    "Graphics Card": "GeForce GTX 1080 Ti",
+    "launch Price $": 699,
+    "1080p Ultra(FPS)": 66.5,
+    "1080p Medium(FPS)": 110.6,
+    "1440p Ultra(FPS)": 50.3,
+    "4K Ultra(FPS)": 29.5,
+    "Specifications Links to Review": "GP102, 3584 shaders, 1582MHz, 11GB GDDR5X@11Gbps, 484GB/s,",
+    "Wattage": 250
+  },
+  {
+    "Graphics Card": "GeForce RTX 2060 Super",
+    "launch Price $": 399,
+    "1080p Ultra(FPS)": 65.1,
+    "1080p Medium(FPS)": 105.9,
+    "1440p Ultra(FPS)": 48.2,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU106, 2176 shaders, 1650MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 175
+  },
+  {
+    "Graphics Card": "Radeon RX 5700",
+    "launch Price $": 349,
+    "1080p Ultra(FPS)": 64.8,
+    "1080p Medium(FPS)": 111.3,
+    "1440p Ultra(FPS)": 47.2,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 10, 2304 shaders, 1725MHz, 8GB GDDR6@14Gbps, 448GB/s,",
+    "Wattage": 180
+  },
+  {
+    "Graphics Card": "Radeon RX 5600 XT",
+    "launch Price $": 279,
+    "1080p Ultra(FPS)": 58.1,
+    "1080p Medium(FPS)": 100.6,
+    "1440p Ultra(FPS)": 42,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 10, 2304 shaders, 1750MHz, 8GB GDDR6@14Gbps, 336GB/s, 160W",
+    "Wattage": 160
+  },
+  {
+    "Graphics Card": "Radeon RX Vega 64",
+    "launch Price $": 499,
+    "1080p Ultra(FPS)": 56.8,
+    "1080p Medium(FPS)": 94.3,
+    "1440p Ultra(FPS)": 41.6,
+    "4K Ultra(FPS)": 23.5,
+    "Specifications Links to Review": "Vega 10, 4096 shaders, 1546MHz, 8GB HBM2@1.89Gbps, 484GB/s, 295W",
+    "Wattage": 295
+  },
+  {
+    "Graphics Card": "GeForce RTX 2060",
+    "launch Price $": 399,
+    "1080p Ultra(FPS)": 55.2,
+    "1080p Medium(FPS)": 96.8,
+    "1440p Ultra(FPS)": 38.7,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU106, 1920 shaders, 1680MHz, 6GB GDDR6@14Gbps, 336GB/s, 160W",
+    "Wattage": 160
+  },
+  {
+    "Graphics Card": "GeForce GTX 1080",
+    "launch Price $": 599,
+    "1080p Ultra(FPS)": 53.1,
+    "1080p Medium(FPS)": 90,
+    "1440p Ultra(FPS)": 39.4,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP104, 2560 shaders, 1733MHz, 8GB GDDR5X@10Gbps, 320GB/s, 180W",
+    "Wattage": 180
+  },
+  {
+    "Graphics Card": "GeForce RTX 3050",
+    "launch Price $": 249,
+    "1080p Ultra(FPS)": 51.4,
+    "1080p Medium(FPS)": 89.4,
+    "1440p Ultra(FPS)": 37.6,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GA106, 2560 shaders, 1777MHz, 8GB GDDR6@14Gbps, 224GB/s, 130W",
+    "Wattage": 130
+  },
+  {
+    "Graphics Card": "GeForce GTX 1070 Ti",
+    "launch Price $": 449,
+    "1080p Ultra(FPS)": 51.1,
+    "1080p Medium(FPS)": 85.8,
+    "1440p Ultra(FPS)": 37.9,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP104, 2432 shaders, 1683MHz, 8GB GDDR5@8Gbps, 256GB/s, 180W",
+    "Wattage": 180
+  },
+  {
+    "Graphics Card": "Radeon RX Vega 56",
+    "launch Price $": 399,
+    "1080p Ultra(FPS)": 50.6,
+    "1080p Medium(FPS)": 84.4,
+    "1440p Ultra(FPS)": 37,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Vega 10, 3584 shaders, 1471MHz, 8GB HBM2@1.6Gbps, 410GB/s, 210W",
+    "Wattage": 210
+  },
+  {
+    "Graphics Card": "GeForce GTX 1660 Super",
+    "launch Price $": 229,
+    "1080p Ultra(FPS)": 45.3,
+    "1080p Medium(FPS)": 82.8,
+    "1440p Ultra(FPS)": 32.4,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU116, 1408 shaders, 1785MHz, 6GB GDDR6@14Gbps, 336GB/s, 125W",
+    "Wattage": 125
+  },
+  {
+    "Graphics Card": "GeForce GTX 1660 Ti",
+    "launch Price $": 280,
+    "1080p Ultra(FPS)": 45,
+    "1080p Medium(FPS)": 82.4,
+    "1440p Ultra(FPS)": 32.2,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU116, 1536 shaders, 1770MHz, 6GB GDDR6@12Gbps, 288GB/s, 120W",
+    "Wattage": 120
+  },
+  {
+    "Graphics Card": "GeForce GTX 1070",
+    "launch Price $": 379,
+    "1080p Ultra(FPS)": 44.8,
+    "1080p Medium(FPS)": 75.1,
+    "1440p Ultra(FPS)": 33.1,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP104, 1920 shaders, 1683MHz, 8GB GDDR5@8Gbps, 256GB/s, 150W",
+    "Wattage": 150
+  },
+  {
+    "Graphics Card": "GeForce GTX 1660",
+    "launch Price $": 219,
+    "1080p Ultra(FPS)": 40.2,
+    "1080p Medium(FPS)": 75.1,
+    "1440p Ultra(FPS)": 28.5,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU116, 1408 shaders, 1785MHz, 6GB GDDR5@8Gbps, 192GB/s, 120W",
+    "Wattage": 120
+  },
+  {
+    "Graphics Card": "Radeon RX 5500 XT 8GB",
+    "launch Price $": 199,
+    "1080p Ultra(FPS)": 39.8,
+    "1080p Medium(FPS)": 72.6,
+    "1440p Ultra(FPS)": 28.5,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 14, 1408 shaders, 1845MHz, 8GB GDDR6@14Gbps, 224GB/s, 130W",
+    "Wattage": 130
+  },
+  {
+    "Graphics Card": "Radeon RX 590",
+    "launch Price $": 279,
+    "1080p Ultra(FPS)": 39.4,
+    "1080p Medium(FPS)": 68.6,
+    "1440p Ultra(FPS)": 29.1,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Polaris 30, 2304 shaders, 1545MHz, 8GB GDDR5@8Gbps, 256GB/s, 225W",
+    "Wattage": 225
+  },
+  {
+    "Graphics Card": "GeForce GTX 980 Ti",
+    "launch Price $": 649,
+    "1080p Ultra(FPS)": 35.9,
+    "1080p Medium(FPS)": 62.6,
+    "1440p Ultra(FPS)": 26.7,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GM200, 2816 shaders, 1075MHz, 6GB GDDR5@7Gbps, 336GB/s, 250W",
+    "Wattage": 250
+  },
+  {
+    "Graphics Card": "Radeon R9 Fury X",
+    "launch Price $": 649,
+    "1080p Ultra(FPS)": 35.4,
+    "1080p Medium(FPS)": 64.4,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Fiji, 4096 shaders, 1050MHz, 4GB HBM2@2Gbps, 512GB/s, 275W",
+    "Wattage": 275
+  },
+  {
+    "Graphics Card": "Radeon RX 580 8GB",
+    "launch Price $": 250,
+    "1080p Ultra(FPS)": 35.3,
+    "1080p Medium(FPS)": 61.7,
+    "1440p Ultra(FPS)": 26,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Polaris 20, 2304 shaders, 1340MHz, 8GB GDDR5@8Gbps, 256GB/s, 185W",
+    "Wattage": 185
+  },
+  {
+    "Graphics Card": "GeForce GTX 1650 Super",
+    "launch Price $": 160,
+    "1080p Ultra(FPS)": 33.9,
+    "1080p Medium(FPS)": 68,
+    "1440p Ultra(FPS)": 23,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU116, 1280 shaders, 1725MHz, 4GB GDDR6@12Gbps, 192GB/s, 100W",
+    "Wattage": 100
+  },
+  {
+    "Graphics Card": "Radeon RX 5500 XT 4GB",
+    "launch Price $": 169,
+    "1080p Ultra(FPS)": 33.5,
+    "1080p Medium(FPS)": 66.9,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 14, 1408 shaders, 1845MHz, 4GB GDDR6@14Gbps, 224GB/s, 130W",
+    "Wattage": 130
+  },
+  {
+    "Graphics Card": "GeForce GTX 1060 6GB",
+    "launch Price $": 250,
+    "1080p Ultra(FPS)": 32.2,
+    "1080p Medium(FPS)": 58,
+    "1440p Ultra(FPS)": 23,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP106, 1280 shaders, 1708MHz, 6GB GDDR5@8Gbps, 192GB/s, 120W",
+    "Wattage": 120
+  },
+  {
+    "Graphics Card": "Radeon RX 6500 XT",
+    "launch Price $": 199,
+    "1080p Ultra(FPS)": 30.8,
+    "1080p Medium(FPS)": 65.8,
+    "1440p Ultra(FPS)": 18,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 24, 1024 shaders, 2815MHz, 4GB GDDR6@18Gbps, 144GB/s, 107W",
+    "Wattage": 107
+  },
+  {
+    "Graphics Card": "Radeon R9 390",
+    "launch Price $": 329,
+    "1080p Ultra(FPS)": 29.8,
+    "1080p Medium(FPS)": 51.2,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Grenada, 2560 shaders, 1000MHz, 8GB GDDR5@6Gbps, 384GB/s, 275W",
+    "Wattage": 275
+  },
+  {
+    "Graphics Card": "GeForce GTX 980",
+    "launch Price $": 649,
+    "1080p Ultra(FPS)": 28.9,
+    "1080p Medium(FPS)": 53.7,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GM204, 2048 shaders, 1216MHz, 4GB GDDR5@7Gbps, 256GB/s, 165W",
+    "Wattage": 165
+  },
+  {
+    "Graphics Card": "GeForce GTX 1650 GDDR6",
+    "launch Price $": 149,
+    "1080p Ultra(FPS)": 28.8,
+    "1080p Medium(FPS)": 56.7,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU117, 896 shaders, 1590MHz, 4GB GDDR6@12Gbps, 192GB/s, 75W",
+    "Wattage": 75
+  },
+  {
+    "Graphics Card": "Intel Arc A380",
+    "launch Price $": 139,
+    "1080p Ultra(FPS)": 28.3,
+    "1080p Medium(FPS)": 54.7,
+    "1440p Ultra(FPS)": 19.5,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "ACM-G11, 1024 shaders, 2450MHz, 6GB GDDR6@15.5Gbps, 186GB/s, 75W",
+    "Wattage": 75
+  },
+  {
+    "Graphics Card": "Radeon RX 570 4GB",
+    "launch Price $": 169,
+    "1080p Ultra(FPS)": 28.3,
+    "1080p Medium(FPS)": 53.6,
+    "1440p Ultra(FPS)": 20,
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Polaris 20, 2048 shaders, 1244MHz, 4GB GDDR5@7Gbps, 224GB/s, 150W",
+    "Wattage": 150
+  },
+  {
+    "Graphics Card": "GeForce GTX 1060 3GB",
+    "launch Price $": 250,
+    "1080p Ultra(FPS)": 27.8,
+    "1080p Medium(FPS)": 52.6,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP106, 1152 shaders, 1708MHz, 3GB GDDR5@8Gbps, 192GB/s, 120W",
+    "Wattage": 120
+  },
+  {
+    "Graphics Card": "GeForce GTX 1650",
+    "launch Price $": 149,
+    "1080p Ultra(FPS)": 26.9,
+    "1080p Medium(FPS)": 51.1,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU117, 896 shaders, 1665MHz, 4GB GDDR5@8Gbps, 128GB/s, 75W",
+    "Wattage": 75
+  },
+  {
+    "Graphics Card": "GeForce GTX 970",
+    "launch Price $": 329,
+    "1080p Ultra(FPS)": 26.5,
+    "1080p Medium(FPS)": 49.1,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GM204, 1664 shaders, 1178MHz, 4GB GDDR5@7Gbps, 256GB/s, 145W",
+    "Wattage": 145
+  },
+  {
+    "Graphics Card": "Radeon RX 6400",
+    "launch Price $": 159,
+    "1080p Ultra(FPS)": 23.7,
+    "1080p Medium(FPS)": 52,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Navi 24, 768 shaders, 2321MHz, 4GB GDDR6@16Gbps, 128GB/s, 53W",
+    "Wattage": 53
+  },
+  {
+    "Graphics Card": "GeForce GTX 780",
+    "launch Price $": 499,
+    "1080p Ultra(FPS)": 22,
+    "1080p Medium(FPS)": 38.5,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GK110, 2304 shaders, 900MHz, 3GB GDDR5@6Gbps, 288GB/s, 230W",
+    "Wattage": 230
+  },
+  {
+    "Graphics Card": "GeForce GTX 1050 Ti",
+    "launch Price $": 139,
+    "1080p Ultra(FPS)": 19.8,
+    "1080p Medium(FPS)": 38,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP107, 768 shaders, 1392MHz, 4GB GDDR5@7Gbps, 112GB/s, 75W",
+    "Wattage": 75
+  },
+  {
+    "Graphics Card": "GeForce GTX 1630",
+    "launch Price $": 199,
+    "1080p Ultra(FPS)": 16.9,
+    "1080p Medium(FPS)": 33.9,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "TU117, 512 shaders, 1785MHz, 4GB GDDR6@12Gbps, 96GB/s, 75W",
+    "Wattage": 75
+  },
+  {
+    "Graphics Card": "GeForce GTX 1050",
+    "launch Price $": 139,
+    "1080p Ultra(FPS)": 14.8,
+    "1080p Medium(FPS)": 29.8,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP107, 640 shaders, 1455MHz, 2GB GDDR5@7Gbps, 112GB/s, 75W",
+    "Wattage": 75
+  },
+  {
+    "Graphics Card": "Radeon RX 560 4GB",
+    "launch Price $": 99,
+    "1080p Ultra(FPS)": 14.8,
+    "1080p Medium(FPS)": 31.8,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Baffin, 1024 shaders, 1275MHz, 4GB GDDR5@7Gbps, 112GB/s, 60-80W",
+    "Wattage": 70
+  },
+  {
+    "Graphics Card": "Radeon RX 550 4GB",
+    "launch Price $": 90,
+    "1080p Ultra(FPS)": "",
+    "1080p Medium(FPS)": 19.6,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "Lexa, 640 shaders, 1183MHz, 4GB GDDR5@7Gbps, 112GB/s, 50W",
+    "Wattage": 50
+  },
+  {
+    "Graphics Card": "GeForce GT 1030",
+    "launch Price $": 69,
+    "1080p Ultra(FPS)": "",
+    "1080p Medium(FPS)": 14.5,
+    "1440p Ultra(FPS)": "",
+    "4K Ultra(FPS)": "",
+    "Specifications Links to Review": "GP108, 384 shaders, 1468MHz, 2GB GDDR5@6Gbps, 48GB/s, 30W",
+    "Wattage": 30
+  }
+]
